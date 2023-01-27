@@ -1,1 +1,2 @@
 Érase una vez un programador
+que intentaba aprender comandos git
